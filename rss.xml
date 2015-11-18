@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[hiramring]]></title>
         <description><![CDATA[hiramring]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hiramring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 01:04:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 Nov 2015 01:04:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hiramring/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[On The Grid]]></title>
             <description><![CDATA[<article><h1>On The Grid</h1><p>Ganesh</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bc344ab-382d-49b7-8f72-23067d807d6d.jpg"></article>]]></description>
-            <link>undefinedon-the-grid/index.html</link>
+            <link>https://thegrid.ai/hiramring/on-the-grid/index.html</link>
             <guid isPermaLink="false">e18869db-948e-496d-a492-4e8d96fd3b64</guid>
             <pubDate>Wed, 18 Nov 2015 01:03:13 GMT</pubDate>
         </item>
