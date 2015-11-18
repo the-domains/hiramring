@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[hiramring]]></title>
-        <description><![CDATA[hiramring]]></description>
+        <title><![CDATA[Hiram Ring: musician, linguist]]></title>
+        <description><![CDATA[Hiram Ring: musician, linguist]]></description>
         <link>https://thegrid.ai/hiramring/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 Nov 2015 01:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2015 01:41:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hiramring/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[On The Grid]]></title>
             <description><![CDATA[<article><h1>On The Grid</h1><p>Ganesh</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bc344ab-382d-49b7-8f72-23067d807d6d.jpg"></article>]]></description>
             <link>https://thegrid.ai/hiramring/on-the-grid/index.html</link>
             <guid isPermaLink="false">e18869db-948e-496d-a492-4e8d96fd3b64</guid>
-            <pubDate>Wed, 18 Nov 2015 01:03:13 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2015 01:41:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
