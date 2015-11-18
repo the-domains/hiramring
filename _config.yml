@@ -1,0 +1,23 @@
+name: hiramring
+favicon: null
+layout_spectrum: 0.18405483406968415
+typography_spectrum: 0.9487635339610279
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7319988820236176
+  lightness: 0.22360303602181375
+  saturation: 0.18269097083248198
+  rhythmicContrast: 0.653560436097905
+purpose: []
